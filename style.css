@@ -271,11 +271,11 @@ nav .icon {
     color: #ffffff;
 }
 
-@media screen and (max-width: 300px) {
+/* @media screen and (max-width: 300px) {
     body {
         width: 100%;
     }
-}
+} */
 
 @media screen and (max-width: 720px) {
     .eachdish {
@@ -305,7 +305,7 @@ nav .icon {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 720px) {
     .nav .responsive {position: relative;}
     .nav.responsive .icon {
         position: absolute;
@@ -320,7 +320,7 @@ nav .icon {
 
     nav a:nth-of-type(5) {
         background: yellow;
-        width: 20%;
+        width: 40%;
         padding-left: 20px;
     }
 
